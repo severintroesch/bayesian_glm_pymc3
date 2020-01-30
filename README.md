@@ -1,2 +1,3 @@
-# pymc3_colab
-try of  bayesian modelling on colab - shrink data
+# bayesian_glm_pymc3
+  
+bayesian modelling on google colab - mindfulness data (bayesian general linear model)
